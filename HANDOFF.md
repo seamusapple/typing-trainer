@@ -2,6 +2,10 @@
 
 给负责部署到 GitHub Pages 的 AI / 同学。本文自包含，不需要会话历史。
 
+## 线上地址
+
+已部署：https://seamusapple.github.io/typing-trainer/ （仓库 github.com/seamusapple/typing-trainer，Pages 从 main 根目录发布；提交人用 seamusapple 的 noreply 邮箱）。改完 `index.html` 直接 push 到 `main`，约 1 分钟生效。
+
 ## 这是什么
 
 - 一个单文件网页：`index.html`，零依赖、零构建。打开即用；除「AI 周计划」外完全离线可用。
